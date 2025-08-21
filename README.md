@@ -1,1 +1,1 @@
-#This IS A Template Textures Pack
+#This IS A Template of Textures Pack
